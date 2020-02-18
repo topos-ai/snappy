@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/golang/snappy"
+	"github.com/topos-ai/snappy"
 )
 
 var (
